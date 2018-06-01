@@ -1,0 +1,32 @@
+div{
+	float: left;
+	box-sizing: border-box;
+
+}
+.cuadrado{
+	width: 25%;
+	height: 100px;	
+	border-width: 10px;
+	border-color: red;
+	padding: 5px;
+	
+	
+
+
+
+}
+.cuadrado1{
+	width: 25%;
+	height: 100px;
+	border-width: 10px;
+	border-color: red;
+	padding: 5px;
+	
+}
+.barra{
+	display: block;
+	width: 100%;
+	position: fixed;
+	background-color: grey;
+	margin:auto;
+}
