@@ -1,0 +1,80 @@
+.españa{
+	background-color: red;
+	width: 250px;
+	height: 150px;
+	margin-bottom: 15px;
+}
+.amarillo{
+	background-color: yellow;
+	width: 250px;
+	height: 44px;
+	position: relative;
+	top:56px;
+}
+.dinamarca{
+	background-color: red;
+	width: 250px;
+	height: 150px;
+}
+.linea_ver{
+	position:relative;
+	height: 100%;
+	width: 25px;
+	background-color: white;
+	float: left;
+	left:74px;
+}
+.linea_hor{
+	position:relative;
+	height: 25px;
+	width: 100%;
+	background-color: white;
+	top:56px;
+}
+.emiratos{
+	background-color: red;
+	width: 250px;
+	height: 150px;
+	margin-top: 15px;
+}
+.verde{
+	background-color: green;
+	width: 80%;
+	height: 33%;
+	position: relative;
+	left:50px;
+
+}
+.blanco{
+	background-color: white;
+	width: 80%;
+	height: 33%;
+	position: relative;
+	left:50px;
+
+}
+.negro{
+	background-color: black;
+	width: 80%;
+	height: 34%;
+	position: relative;
+	left:50px;
+
+}
+.japon{
+	background-color: white;
+	width: 250px;
+	height: 150px;
+	margin-top: 15px;
+	border:solid 1px black;
+}
+.punto{
+	background-color: red;
+	width: 75px;
+	height: 75px;
+	margin-top: 15px;
+	border-radius: 100px;
+	position: relative;
+	left: 35%;
+	top:16%;
+}
